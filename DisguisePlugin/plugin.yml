@@ -1,0 +1,13 @@
+name: Disguise
+version: 1
+api: 3.8.3
+main: LittleKittyCat\Disguise
+author: LittleKittyCat
+
+permissions:
+  disguise.use:
+    description: Disguise use command has permission.
+
+commands:
+  disguise:
+    description: Disguise main command
