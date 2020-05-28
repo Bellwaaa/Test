@@ -1,2 +1,4 @@
-# ImCatelyn
-Hello, my name is Katie and i am new to coding and im willing to get better at it. :D
+# Test Plugin
+
+This is just a test plugin, This will not work nor do anything, Im just trying simple things to understand code more better
+
