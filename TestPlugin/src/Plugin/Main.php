@@ -34,7 +34,7 @@ class Main extends PluginBase implements Listener{
    }
 
    public function onDeath(PlayerDeathEvent $event) : void{
-       $event->setDeathMessage("The player " . $event->getPlayer()->getName() . "has ust passed away!");
+       $event->setDeathMessage("The player " . $event->getPlayer()->getName() . "has just passed away!");
    }
 
 }
