@@ -7,7 +7,6 @@ use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\Player;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
-use Deaths\Main;
 use pocketmine\Server;
 use pocketmine\event\player\PlayerQuitEvent;
 
